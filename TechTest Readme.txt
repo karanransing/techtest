@@ -8,17 +8,15 @@ View :
 Css :
 All css and themes main css  are written resources/assets/css/app.css file
 
-
 JS:
 
 All js is written in resources/assets/css/app.js file
-
 
 Controller :
 1) login functionality Used basic auth model
 2) Registration add regitration controller create function
 
-Model :vUser.php
+Model :User.php
 
 Routes : all routes are defined in the routes/web.php file
 
